@@ -1,9 +1,6 @@
 ## Github User App MVVM
 ### Screenshott
-<img src="https://budiliauw87.github.io/assets/github01.jpg " alt="drawing" width="200"/>
-<img src="https://budiliauw87.github.io/assets/github02.jpg " alt="drawing" width="200"/>
-<img src="https://budiliauw87.github.io/assets/github03.jpg " alt="drawing" width="200"/>
-<img src="https://budiliauw87.github.io/assets/github04.jpg " alt="drawing" width="200"/>
+<img src="https://github.com/budiliauw87/budiliauw87.github.io/blob/ec4bbc4e411ff520666e3b0a5c63f00bb886b5b2/assets/github01.jpg " alt="screenshoot" width="200"/>  <img src="https://github.com/budiliauw87/budiliauw87.github.io/blob/ec4bbc4e411ff520666e3b0a5c63f00bb886b5b2/assets/github02.jpg " alt="screenshoot" width="200"/>  <img src="https://github.com/budiliauw87/budiliauw87.github.io/blob/ec4bbc4e411ff520666e3b0a5c63f00bb886b5b2/assets/github03.jpg " alt="screenshoot" width="200"/>  <img src="https://github.com/budiliauw87/budiliauw87.github.io/blob/ec4bbc4e411ff520666e3b0a5c63f00bb886b5b2/assets/github04.jpg " alt="screenshoot" width="200"/>
 
 
 ### Library resources:
