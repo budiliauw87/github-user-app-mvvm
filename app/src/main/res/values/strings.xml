@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="token_format" translatable="false">Token %1$s</string>
+    <string name="repo_format" translatable="false">Repositories %1$d</string>
+    <string name="something_error">Something Error</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="dark_mode">Dark Theme</string>
+    <string name="language">Language</string>
+    <string name="copyright_summary">Copyright &#169; 2022 budiliauw87</string>
+    <string name="dark_mode_summary">Setup theme dark mode</string>
+    <string name="language_summary">Setup language application</string>
+    <string name="about">About</string>
+    <string name="general_summary">General setting application</string>
+    <string name="subtitle_app">Simple application github user</string>
+    <string name="version_app">Version 1.0</string>
+    <string name="press_twice_for_exit">Press twice for exit</string>
+    <string name="search_title">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="photo_avatar">"Photo Avatar "</string>
+    <string name="empty_favorite">Favorite Empty</string>
+    <string name="detail_user">Detail user</string>
+    <string name="repo">Repo</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+
+    <string-array name="pref_theme_list_titles">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Auto</item>
+    </string-array>
+
+    <string-array name="pref_theme_list_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>default</item>
+    </string-array>
+
+    <string-array name="pref_lang_list_titles">
+        <item>English</item>
+        <item>Indonesian</item>
+    </string-array>
+
+    <string-array name="pref_lang_list_values">
+        <item>en</item>
+        <item>id</item>
+    </string-array>
+</resources>
