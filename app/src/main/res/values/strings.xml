@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Github user</string>
+    <string name="subtitle_app">Simple Github User App</string>
+    <string name="version_app">Version 1.0</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Settings</string>
+    <string name="repo_format" translatable="false">Repositories %1$d</string>
+    <string name="dark_mode_summary">Setup theme dark mode</string>
+    <string name="dark_mode">Dark Theme</string>
+    <string name="language_summary">Setup language application</string>
+    <string name="language">Language</string>
+    <string name="copyright_summary">Copyright &#169; 2022 budiliauw87</string>
+    <string name="about">About</string>
+    <string name="search_title">Search</string>
+    <string name="photo_avatar">Image Avatar</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="repo">Repo</string>
+    <string name="refresh">Refresh</string>
+    <string name="something_error">Something Error</string>
+    <string name="press_again_for_exit">Press once more  for exit</string>
+    <string name="empty_favorite">Favorite Empty</string>
+    <string name="settings_format" translatable="false">%1$s_preferences</string>
+
+
+    <string-array name="pref_theme_list_titles">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Auto</item>
+    </string-array>
+
+    <string-array name="pref_theme_list_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>default</item>
+    </string-array>
+
+    <string-array name="pref_lang_list_titles">
+        <item>English</item>
+        <item>Indonesian</item>
+    </string-array>
+
+    <string-array name="pref_lang_list_values">
+        <item>en</item>
+        <item>id</item>
+    </string-array>
+    <string name="title_favoritefeature" translatable="false">Module Title</string>
+</resources>

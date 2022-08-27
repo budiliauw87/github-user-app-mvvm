@@ -1,0 +1,23 @@
+plugins {
+    id 'com.android.dynamic-feature'
+    id 'dagger.hilt.android.plugin'
+}
+apply from: '../shared_dependencies.gradle'
+android {
+    compileSdk 32
+
+    defaultConfig {
+        minSdk 23
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+    implementation project(":core")
+    implementation project(":app")
+
+}

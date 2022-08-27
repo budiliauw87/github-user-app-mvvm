@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dicodingfa</string>
+    <string name="something_error">Terjadi kesalahan</string>
+    <string name="title_home">Depan</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_settings">Pengaturan</string>
+    <string name="dark_mode">Tema Gelap</string>
+    <string name="language">Bahasa</string>
+    <string name="copyright_summary">Copyright &#169; 2022 budiliauw87</string>
+    <string name="dark_mode_summary">Pengaturan tema mode gelap</string>
+    <string name="language_summary">Pengaturan bahasa aplikasi</string>
+    <string name="about">Tentang</string>
+    <string name="subtitle_app">Simple application github userEntity</string>
+    <string name="version_app">Version 1.0</string>
+    <string name="press_again_for_exit">Tekan lagi untuk keluar.</string>
+    <string name="search_title">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="photo_avatar">"Photo Avatar "</string>
+    <string name="empty_favorite">Favorite Empty</string>
+    <string name="repo">Repo</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string-array name="pref_theme_list_titles">
+        <item>Terang</item>
+        <item>Gelap</item>
+        <item>Otomatis</item>
+    </string-array>
+
+    <string-array name="pref_theme_list_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>default</item>
+    </string-array>
+
+    <string-array name="pref_lang_list_titles">
+        <item>Inggris</item>
+        <item>Indonesia</item>
+    </string-array>
+
+    <string-array name="pref_lang_list_values">
+        <item>en</item>
+        <item>id</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">github.com</domain>
+        <pin-set expiration="2023-03-16">
+            <pin digest="SHA-256">uyPYgclc5Jt69vKu92vci6etcBDY8UNTyrHQZJpVoZY=</pin>
+        </pin-set>
+    </domain-config>
+</network-security-config>

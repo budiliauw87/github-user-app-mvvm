@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="token_format" translatable="false">Token %1$s</string>
+    <string name="something_error">Something Error</string>
+    <string name="photo_avatar">Image Avatar</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="repo">Repo</string>
+    <string name="setting_pref_name" translatable="false">github_user_pref</string>
+</resources>
